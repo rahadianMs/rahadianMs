@@ -93,9 +93,6 @@ int main() {
     <a href="https://colab.research.google.com/"><img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab"></a>
       <a href="https://workspace.google.com/products/sheets" title="Google Spreadsheets">
     <img src="https://img.shields.io/badge/Spreadsheets-31aa52?style=for-the-badge&logo=data:image/svg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfMTI4Ml8yNCkiPjxwYXRoIGQ9Ik0xNC4yMjIyIDcuMTExMTFWNS4zMzMzM0g3LjExMTExVjEuNzc3NzhINS4zMzMzM1Y1LjMzMzMzSDEuNzc3NzhWNy4xMTExMUg1LjMzMzMzVjE0LjIyMjJINy4xMTExMVY3LjExMTExSDE0LjIyMjJaTTE0LjIyMjIgMEMxNC42NjY3IDAgMTUuMTExMSAwLjE3Nzc3OCAxNS40NTc4IDAuNTQyMjIyQzE1LjgyMjIgMC44ODg4ODkgMTYgMS4zMzMzMyAxNiAxLjc3Nzc4VjE0LjIyMjJDMTYgMTQuNjY2NyAxNS44MjIyIDE1LjExMTEgMTUuNDU3OCAxNS40NTc4QzE1LjExMTEgMTUuODIyMiAxNC42NjY3IDE2IDE0LjIyMjIgMTZIMS43Nzc3OEMxLjMzMzMzIDE2IDAuODg4ODg5IDE1LjgyMjIgMC41NDIyMjIgMTUuNDU3OEMwLjE3Nzc3OCAxNS4xMTExIDAgMTQuNjY2NyAwIDE0LjIyMjJWMS43Nzc3OEMwIDEuMzMzMzMgMC4xNzc3NzggMC44ODg4ODkgMC41NDIyMjIgMC41NDIyMjJDMC44ODg4ODkgMC4xNzc3NzggMS4zMzMzMyAwIDEuNzc3NzggMEgxNC4yMjIyWiIgZmlsbD0id2hpdGUiLz48L2c%2BPGRlZnM%2BPGNsaXBQYXRoIGlkPSJjbGlwMF8xMjgyXzI0Ij48cmVjdCB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIGZpbGw9IndoaXRlIi8%2BPC9jbGlwUGF0aD48L2RlZnM%2BPC9zdmc%2B" alt="Google Spreadsheets" />
-  </a
-      <a href="https://markdownguide.org" title="Markdown">
-    <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
     <a href="https://www.canva.com/"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"></a>
     <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"></a>
   </p>
