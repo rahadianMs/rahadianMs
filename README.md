@@ -1,27 +1,34 @@
 <div align="center">
-  <h1>Hello <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px">,<br/>I’m Rahadian Muhammad Sutandar</h1>
-  <table>
-  <a href="https://www.credential.net/4fb297c2-e92b-4618-b966-cf7d3ade9e99" target="_blank">
-    <img src="https://img.shields.io/badge/-🎓%20TensorFlow%20Developer%20Certificate-blue?style=for-the-badge" alt="TensorFlow Certificate"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1WDPBGmuGGMhFINdQpwHKywcVhq4-3Q1i/view" target="_blank">
-    <img src="https://img.shields.io/badge/-🚀%20Bangkit%20Academy%20ML%20Certificate-red?style=for-the-badge" alt="Bangkit Certificate"/>
-  </a>
-  <a href="https://github.com/rahadianMs/Github-MyPortfolio#portfolio-project" target="_blank">
-    <img src="https://img.shields.io/badge/-💼%20My%20Projects-blue?style=for-the-badge" alt="My Projects"/>
-  </a>
-  <a href="https://github.com/rahadianMs/Github-MyPortfolio#certifications" target="_blank">
-    <img src="https://img.shields.io/badge/-📜%20My%20Certificates-green?style=for-the-badge" alt="My Certificates"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1R2lO3_R0ywXyjEz3BT38wcykb7TC8ArX/view" target="_blank">
-    <img src="https://img.shields.io/badge/-🧭%20BNSP%20First%20Expert%20Planner-orange?style=for-the-badge" alt="BNSP Planner Certificate"/>
-  </a>
-</p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahadianMs&style=for-the-badge&label=Profile+Views" alt="profile views"> &nbsp;
-  <img src="https://img.shields.io/github/last-commit/rahadianMs/rahadianMs?style=for-the-badge&label=Last+Update" alt="last update">
+  <h1>Hello <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px">,<br/>I’m Rahadian Muhammad Sutandar</h1>
+
+  <!-- Badge Buttons -->
+  <p>
+    <a href="https://www.credential.net/4fb297c2-e92b-4618-b966-cf7d3ade9e99" target="_blank">
+      <img src="https://img.shields.io/badge/-🎓%20TensorFlow%20Developer%20Certificate-blue?style=for-the-badge" alt="TensorFlow Certificate"/>
+    </a>
+    <a href="https://drive.google.com/file/d/1WDPBGmuGGMhFINdQpwHKywcVhq4-3Q1i/view" target="_blank">
+      <img src="https://img.shields.io/badge/-🚀%20Bangkit%20Academy%20ML%20Certificate-red?style=for-the-badge" alt="Bangkit Certificate"/>
+    </a>
+    <a href="https://github.com/rahadianMs/Github-MyPortfolio#portfolio-project" target="_blank">
+      <img src="https://img.shields.io/badge/-💼%20My%20Projects-blue?style=for-the-badge" alt="My Projects"/>
+    </a>
+    <a href="https://github.com/rahadianMs/Github-MyPortfolio#certifications" target="_blank">
+      <img src="https://img.shields.io/badge/-📜%20My%20Certificates-green?style=for-the-badge" alt="My Certificates"/>
+    </a>
+    <a href="https://drive.google.com/file/d/1R2lO3_R0ywXyjEz3BT38wcykb7TC8ArX/view" target="_blank">
+      <img src="https://img.shields.io/badge/-🧭%20BNSP%20First%20Expert%20Planner-orange?style=for-the-badge" alt="BNSP Planner Certificate"/>
+    </a>
+  </p>
+
+  <!-- GitHub Stats Info -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=rahadianMs&style=for-the-badge&label=Profile+Views" alt="profile views"> &nbsp;
+    <img src="https://img.shields.io/github/last-commit/rahadianMs/rahadianMs?style=for-the-badge&label=Last+Update" alt="last update">
+  </p>
+
 </div>
+
 
 <br/>
 
