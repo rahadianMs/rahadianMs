@@ -1,4 +1,5 @@
 
+
 ```markdown
 <div align="center">
   <h1>Hello <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px">,<br/>I’m Rahadian Muhammad Sutandar</h1>
@@ -172,12 +173,3 @@ int main() {
     *   **Wakatime:** The Wakatime stats image will only work if you (rahadianMs) have a Wakatime account linked and public. If not, it might show an error or default image. You can remove it or set up Wakatime if you use it.
     *   Increased `days=60` to `days=90` for the activity graph to show a bit more history, you can adjust this.
 7.  **Footer:** Updated copyright year and name.
-
-**To Use This:**
-1.  Go to your GitHub profile page (e.g., `https://github.com/rahadianMs`).
-2.  Create a new repository with the **exact same name as your GitHub username** (`rahadianMs`). This is a special repository whose `README.md` will appear on your profile.
-3.  Make sure to initialize it with a README file, or add one.
-4.  Copy the code above and paste it into the `README.md` file in that repository.
-5.  Commit the changes.
-
-Let me know if you'd like any adjustments!
