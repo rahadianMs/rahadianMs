@@ -43,16 +43,6 @@ int main() {
     string email    = "📩 rahadiansutandar@gmail.com";
     string pronouns = "😄 Rahadian (He/Him/His)";
     string funfact  = "⚡ Passionate about creating resilient and sustainable communities!";
-
-    cout << passion << endl;
-    cout << education << endl;
-    cout << focus << endl;
-    cout << learning << endl;
-    cout << collab << endl;
-    cout << ask << endl;
-    cout << email << endl;
-    cout << pronouns << endl;
-    cout << funfact << endl;
     return 0;
 }
 ```
