@@ -10,7 +10,7 @@
     <a href="https://drive.google.com/file/d/1WDPBGmuGGMhFINdQpwHKywcVhq4-3Q1i/view" target="_blank">
       <img src="https://img.shields.io/badge/Bangkit_Academy-Top_10%25_ML-blue?style=for-the-badge&logo=google" alt="Bangkit Academy Graduate"/>
     </a>
-    <a href="https://drive.google.com/file/d/1R2lO3_R0ywXyjEz3BT38wcykb7TC8ArX/view" target="_blank">
+    <a href="https://drive.google.com/file/d/1R2lO3_R0ywXyjEz3BT38wcykb7TC8ArX/view">
       <img src="https://img.shields.io/badge/BNSP-First_Expert_Planner-red?style=for-the-badge" alt="BNSP Planner Certificate" />
     </a>
   </p>
