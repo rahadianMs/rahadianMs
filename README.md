@@ -21,6 +21,7 @@
 
 <h2>👨🏻‍💻 About Me</h2>
 
+```cpp
 #include <iostream>
 #include <string>
 using namespace std;
@@ -46,10 +47,6 @@ int main() {
 
     return 0;
 }
-
-
-<br/>
-
 <h2>🧷 Connect with Me</h2>
 
 <p>
@@ -152,20 +149,3 @@ int main() {
 
 <p>&#169; 2024 Rahadian Muhammad Sutandar</p>
 ```
-
-**Key Changes and Notes:**
-
-1.  **Name & Title:** Updated to your name and a descriptive title.
-2.  **Badges under Title:** Added TensorFlow Certified and Bangkit Academy (Top 10% ML) as prominent achievements.
-3.  **`About Me` Block:**
-    *   Tailored the C++ `string` variables to reflect your unique blend of urban planning, data science, AI/ML focus, certifications, and passion.
-    *   I assumed pronouns (He/Him/His); please adjust if incorrect.
-4.  **`Connect with Me`:** Included LinkedIn, GitHub, and Gmail as per your CV. You can uncomment and add others if you wish.
-5.  **`Languages & Tools`:**
-    *   Focused on Python, TensorFlow, Scikit-learn, GIS (used QGIS logo as a common open-source example), Google Colab, Canva, SQL (used MySQL logo as an example), Matplotlib, Alibaba Cloud, VS Code, Git, Microsoft Office, and Google Suite.
-    *   Removed tools from the original template that weren't directly evident from your CV (like web dev languages, Java, C++, etc.) to keep it focused.
-6.  **`GitHub Statistics`:**
-    *   Updated all `username=aNdr3W03` to `username=rahadianMs`.
-    *   **Wakatime:** The Wakatime stats image will only work if you (rahadianMs) have a Wakatime account linked and public. If not, it might show an error or default image. You can remove it or set up Wakatime if you use it.
-    *   Increased `days=60` to `days=90` for the activity graph to show a bit more history, you can adjust this.
-7.  **Footer:** Updated copyright year and name.
