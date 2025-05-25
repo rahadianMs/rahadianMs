@@ -15,12 +15,6 @@
     </a>
   </p>
 
-  <!-- GitHub Stats Info -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=rahadianMs&style=for-the-badge&label=Profile+Views" alt="profile views"> &nbsp;
-    <img src="https://img.shields.io/github/last-commit/rahadianMs/rahadianMs?style=for-the-badge&label=Last+Update" alt="last update">
-  </p>
-
   <!-- Badge Buttons (Bottom Section) -->
   <p>
     <a href="https://github.com/rahadianMs/Github-MyPortfolio#portfolio-project" target="_blank">
@@ -30,7 +24,12 @@
       <img src="https://img.shields.io/badge/-📜%20My%20Certificates-green?style=for-the-badge" alt="My Certificates"/>
     </a>
   </p>
-
+  <!-- GitHub Stats Info -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=rahadianMs&style=for-the-badge&label=Profile+Views" alt="profile views"> &nbsp;
+    <img src="https://img.shields.io/github/last-commit/rahadianMs/rahadianMs?style=for-the-badge&label=Last+Update" alt="last update">
+  </p>
+  
 </div>
 
 
