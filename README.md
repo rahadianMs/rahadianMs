@@ -4,8 +4,8 @@
 
   <!-- Badge Buttons (Top Section) -->
   <p>
-    <a href="https://www.credential.net/4fb297c2-e92b-4618-b966-cf7d3ade9e99" target="_blank">
-      <img src="https://img.shields.io/badge/-🎓%20TensorFlow%20Developer%20Certificate-blue?style=for-the-badge" alt="TensorFlow Certificate"/>
+    <a href="https://www.tensorflow.org/learn/certification" title="TensorFlow Certified Developer" target="_blank">
+      <img src="https://img.shields.io/badge/TensorFlow-Certified-FF6700?style=for-the-badge&logo=tensorflow" alt="TensorFlow Certified" />
     </a>
     <a href="https://drive.google.com/file/d/1WDPBGmuGGMhFINdQpwHKywcVhq4-3Q1i/view" target="_blank">
       <img src="https://img.shields.io/badge/Bangkit_Academy-Top_10%25_ML-blue?style=for-the-badge&logo=google" alt="Bangkit Academy Graduate"/>
@@ -32,6 +32,7 @@
   </p>
 
 </div>
+
 
 
 
