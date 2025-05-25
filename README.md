@@ -43,10 +43,10 @@ int main() {
     cout << passion << endl;
     cout << education << endl;
     cout << focus << endl;
-    // ... and so on for other strings if you want to print them
-
     return 0;
 }
+<br/>
+
 <h2>🧷 Connect with Me</h2>
 
 <p>
