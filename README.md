@@ -64,9 +64,12 @@ int main() {
 
 <h2>🧷 Connect with Me</h2>
 <p>
-  <a href="https://linkedin.com/in/rahadianms" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<a href="https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=andrewbjamesie" title="LinkedIn">
+  <img 
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data:image/svg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfMTI3Nl82KSI%2BPHBhdGggZD0iTTEzLjYzMjggMTMuNjMzSDExLjI2MjFWOS45MjAyOUMxMS4yNjIxIDkuMDM0OTggMTEuMjQ2MyA3Ljg5NTI5IDEwLjAyOTEgNy44OTUyOUM4Ljc5NDMxIDcuODk1MjkgOC42MDUzOCA4Ljg1OTkxIDguNjA1MzggOS44NTU4NVYxMy42MzI3SDYuMjM0NzVWNS45OTc5OEg4LjUxMDU2VjcuMDQxMzVIOC41NDI0NEM4Ljc3MDIxIDYuNjUxOTMgOS4wOTkzMyA2LjMzMTU3IDkuNDk0NzYgNi4xMTQzOUM5Ljg5MDE4IDUuODk3MjEgMTAuMzM3MSA1Ljc5MTMzIDEwLjc4NzkgNS44MDgwNEMxMy4xOTA4IDUuODA4MDQgMTMuNjMzOCA3LjM4ODU0IDEzLjYzMzggOS40NDQ2NkwxMy42MzI4IDEzLjYzM1pNMy41NTk3NSA0Ljk1NDQxQzIuNzk5OTQgNC45NTQ1NCAyLjE4Mzg3IDQuMzM4NjYgMi4xODM3NSAzLjU3ODg1QzIuMTgzNjIgMi44MTkwNCAyLjc5OTQ0IDIuMjAyOTggMy41NTkyNSAyLjIwMjg1QzQuMzE5MDYgMi4yMDI2NiA0LjkzNTEyIDIuODE4NTQgNC45MzUyNSAzLjU3ODM1QzQuOTM1MzIgMy45NDMyMyA0Ljc5MDQ0IDQuMjkzMTkgNC41MzI0OCA0LjU1MTI1QzQuMjc0NTMgNC44MDkzMSAzLjkyNDYzIDQuOTU0MzMgMy41NTk3NSA0Ljk1NDQxWk00Ljc0NTEyIDEzLjYzM0gyLjM3MTk0VjUuOTk3OThINC43NDUwNkw0Ljc0NTEyIDEzLjYzM1pNMTQuODE0NiAwLjAwMTE2NDQ5SDEuMTgwNjlDMC41MzYzMTIgLTAuMDA2MDg1NTEgMC4wMDc4NzUgMC41MTAxMDIgMCAxLjE1NDQ4VjE0Ljg0NTNDMC4wMDc2MjUgMTUuNDkgMC41MzYgMTYuMDA2NyAxLjE4MDYyIDE1Ljk5OTlIMTQuODE0NkMxNS40NjA2IDE2LjAwNzkgMTUuOTkxMSAxNS40OTEyIDE2IDE0Ljg0NTNWMS4xNTM0MUMxNS45OTA4IDAuNTA3Nzg5IDE1LjQ2MDMgLTAuMDA4MzM1NTEgMTQuODE0NiAwLjAwMDEwMTk5MyIgZmlsbD0id2hpdGUiLz48L2c%2BPGRlZnM%2BPGNsaXBQYXRoIGlkPSJjbGlwMF8xMjc2XzYiPjxyZWN0IHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0id2hpdGUiLz48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4%3D" 
+    alt="LinkedIn" 
+  />
+</a>
   <a href="https://github.com/rahadianMs" title="GitHub">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
