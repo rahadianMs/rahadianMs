@@ -5,10 +5,10 @@
     <tr>
       <td><p><strong>Urban Planner & Data Science Enthusiast</strong></p></td>
       <td>
-        <a href="https://www.tensorflow.org/learn/certification" title="TensorFlow Certified Developer">
+        <a href="https://www.credential.net/4fb297c2-e92b-4618-b966-cf7d3ade9e99" title="TensorFlow Certified Developer">
           <img src="https://img.shields.io/badge/TensorFlow-Certified-FF6700?style=for-the-badge&logo=tensorflow" alt="TensorFlow Certified" />
         </a>
-        <a href="https://grow.google/intl/id_id/bangkit/" title="Bangkit Academy Graduate (Top 10% ML Path)">
+        <a href="https://drive.google.com/file/d/1iEskiKG4Q_NgACk9zEPXSeyTMRoJ1ynp/view" title="Bangkit Academy Graduate (Top 10% ML Path)">
           <img src="https://img.shields.io/badge/Bangkit_Academy-Top_10%25_ML-blue?style=for-the-badge&logo=google" alt="Bangkit Academy Graduate" />
         </a>
       </td>
