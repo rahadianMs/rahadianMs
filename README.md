@@ -12,7 +12,6 @@
     </a>
     <a href="https://drive.google.com/file/d/1R2lO3_R0ywXyjEz3BT38wcykb7TC8ArX/view" target="_blank">
       <img src="https://img.shields.io/badge/BNSP-First_Expert_Planner-orange?style=for-the-badge" alt="BNSP Planner Certificate" />
-      <img src="https://i0.wp.com/www.hpi.or.id/wp-content/uploads/2021/08/Logo-BNSP.png?fit=500%2C500&ssl=1" alt="BNSP Logo" height="28px" style="vertical-align: middle; margin-left: 5px;" />
     </a>
   </p>
   
