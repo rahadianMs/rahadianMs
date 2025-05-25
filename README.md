@@ -8,13 +8,13 @@
       <img src="https://img.shields.io/badge/-🎓%20TensorFlow%20Developer%20Certificate-blue?style=for-the-badge" alt="TensorFlow Certificate"/>
     </a>
     <a href="https://drive.google.com/file/d/1WDPBGmuGGMhFINdQpwHKywcVhq4-3Q1i/view" target="_blank">
-      <img src="https://img.shields.io/badge/-🚀%20Bangkit%20Academy%20ML%20Certificate-red?style=for-the-badge" alt="Bangkit Certificate"/>
+      <img src="https://img.shields.io/badge/Bangkit_Academy-Top_10%25_ML-blue?style=for-the-badge&logo=google" alt="Bangkit Academy Graduate"/>
     </a>
     <a href="https://drive.google.com/file/d/1R2lO3_R0ywXyjEz3BT38wcykb7TC8ArX/view" target="_blank">
       <img src="https://img.shields.io/badge/-🧭%20BNSP%20First%20Expert%20Planner-orange?style=for-the-badge" alt="BNSP Planner Certificate"/>
     </a>
   </p>
-
+  
   <!-- Badge Buttons (Bottom Section) -->
   <p>
     <a href="https://github.com/rahadianMs/Github-MyPortfolio#portfolio-project" target="_blank">
@@ -24,13 +24,15 @@
       <img src="https://img.shields.io/badge/-📜%20My%20Certificates-green?style=for-the-badge" alt="My Certificates"/>
     </a>
   </p>
+
   <!-- GitHub Stats Info -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=rahadianMs&style=for-the-badge&label=Profile+Views" alt="profile views"> &nbsp;
     <img src="https://img.shields.io/github/last-commit/rahadianMs/rahadianMs?style=for-the-badge&label=Last+Update" alt="last update">
   </p>
-  
+
 </div>
+
 
 
 
