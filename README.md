@@ -11,7 +11,7 @@
       <img src="https://img.shields.io/badge/Bangkit_Academy-Top_10%25_ML-blue?style=for-the-badge&logo=google" alt="Bangkit Academy Graduate"/>
     </a>
     <a href="https://drive.google.com/file/d/1R2lO3_R0ywXyjEz3BT38wcykb7TC8ArX/view" target="_blank">
-      <img src="https://img.shields.io/badge/BNSP-First_Expert_Planner-orange?style=for-the-badge" alt="BNSP Planner Certificate" />
+      <img src="https://img.shields.io/badge/BNSP-First_Expert_Planner-red?style=for-the-badge" alt="BNSP Planner Certificate" />
     </a>
   </p>
   
@@ -21,7 +21,7 @@
       <img src="https://img.shields.io/badge/-💼%20My%20Projects-blue?style=for-the-badge" alt="My Projects"/>
     </a>
     <a href="https://github.com/rahadianMs/Github-MyPortfolio#certifications" target="_blank">
-      <img src="https://img.shields.io/badge/-📜%20My%20Certificates-green?style=for-the-badge" alt="My Certificates"/>
+      <img src="https://img.shields.io/badge/-📜%20My%20Certificates-blue?style=for-the-badge" alt="My Certificates"/>
     </a>
   </p>
 
