@@ -100,19 +100,6 @@ int main() {
 
 <br/>
 
-## 📂 My Portfolio
-
-Explore my works and credentials through the links below:
-
-<p align="center">
-  <a href="https://github.com/rahadianMs/Github-MyPortfolio#portfolio-project" target="_blank">
-    <img src="https://img.shields.io/badge/-💼%20My%20Projects-blue?style=for-the-badge" alt="My Projects"/>
-  </a>
-  <a href="https://github.com/rahadianMs/Github-MyPortfolio#certifications" target="_blank">
-    <img src="https://img.shields.io/badge/-📜%20My%20Certificates-green?style=for-the-badge" alt="My Certificates"/>
-  </a>
-</p>
-
 <h2>⚙️ GitHub Statistics</h2>
 <details>
   <summary>📊 GitHub Contribution Graph</summary>
