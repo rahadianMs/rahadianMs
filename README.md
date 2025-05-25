@@ -1,11 +1,3 @@
-Okay, Rahadian! This is a great CV, and we can definitely adapt that GitHub README template to showcase your profile.
-
-Here's the adapted `README.md` code. I've focused on:
-1.  Updating personal information.
-2.  Aligning the "About Me" C++ block with your Urban Planning and Data Science focus.
-3.  Selecting relevant social links from your CV.
-4.  Choosing Languages & Tools that reflect your skills (Python, TensorFlow, GIS, Canva, etc.).
-5.  Updating GitHub stat links to your username `rahadianMs`.
 
 ```markdown
 <div align="center">
