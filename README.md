@@ -17,7 +17,7 @@
   
  <!-- Badge Buttons (Bottom Section) -->
 <p>
-  <a href="https://github.com/rahadianMs/Github-MyPortfolio#portfolio-project" target="_blank">
+  <a href="https://github.com/rahadianMs/MyProject/blob/ec964574dfcc294454970dab2bf8aed27ca4d7fa/README.md" target="_blank">
     <img src="https://img.shields.io/badge/-💼%20My%20Projects-blue?style=for-the-badge" alt="My Projects"/>
   </a>
   <a href="https://github.com/rahadianMs/MyCertificates/blob/05728f6041c37e649ea8bfa346e8fda3c3b1854b/README.md" target="_blank">
