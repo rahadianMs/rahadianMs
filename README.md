@@ -20,7 +20,7 @@
     <a href="https://github.com/rahadianMs/Github-MyPortfolio#portfolio-project" target="_blank">
       <img src="https://img.shields.io/badge/-💼%20My%20Projects-blue?style=for-the-badge" alt="My Projects"/>
     </a>
-    <a href="https://github.com/rahadianMs/Github-MyPortfolio#certifications" target="https://github.com/rahadianMs/MyCertificates/blob/05728f6041c37e649ea8bfa346e8fda3c3b1854b/README.md">
+    <a href=""https://github.com/rahadianMs/MyCertificates/blob/05728f6041c37e649ea8bfa346e8fda3c3b1854b/README.md"target=_blank">
       <img src="https://img.shields.io/badge/-📜%20My%20Certificates-blue?style=for-the-badge" alt="My Certificates"/>
     </a>
   </p>
