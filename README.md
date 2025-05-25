@@ -1,6 +1,3 @@
-
-
-```markdown
 <div align="center">
   <h1>Hello <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px">,<br/>I’m Rahadian Muhammad Sutandar</h1>
 
@@ -24,7 +21,6 @@
 
 <h2>👨🏻‍💻 About Me</h2>
 
-```cpp
 #include <iostream>
 #include <string>
 using namespace std;
@@ -50,7 +46,7 @@ int main() {
 
     return 0;
 }
-```
+
 
 <br/>
 
