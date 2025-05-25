@@ -10,14 +10,14 @@
     <a href="https://drive.google.com/file/d/1WDPBGmuGGMhFINdQpwHKywcVhq4-3Q1i/view" target="_blank">
       <img src="https://img.shields.io/badge/-🚀%20Bangkit%20Academy%20ML%20Certificate-red?style=for-the-badge" alt="Bangkit Certificate"/>
     </a>
+    <a href="https://drive.google.com/file/d/1R2lO3_R0ywXyjEz3BT38wcykb7TC8ArX/view" target="_blank">
+      <img src="https://img.shields.io/badge/-🧭%20BNSP%20First%20Expert%20Planner-orange?style=for-the-badge" alt="BNSP Planner Certificate"/>
+    </a>
     <a href="https://github.com/rahadianMs/Github-MyPortfolio#portfolio-project" target="_blank">
       <img src="https://img.shields.io/badge/-💼%20My%20Projects-blue?style=for-the-badge" alt="My Projects"/>
     </a>
     <a href="https://github.com/rahadianMs/Github-MyPortfolio#certifications" target="_blank">
       <img src="https://img.shields.io/badge/-📜%20My%20Certificates-green?style=for-the-badge" alt="My Certificates"/>
-    </a>
-    <a href="https://drive.google.com/file/d/1R2lO3_R0ywXyjEz3BT38wcykb7TC8ArX/view" target="_blank">
-      <img src="https://img.shields.io/badge/-🧭%20BNSP%20First%20Expert%20Planner-orange?style=for-the-badge" alt="BNSP Planner Certificate"/>
     </a>
   </p>
 
