@@ -264,28 +264,21 @@ Smart-tourism systems · ESG data infrastructure · urban-tech consulting · spa
 
 <br/>
 
-<h2>⚙️ GitHub Statistics</h2>
+<h2>👀 Where the real code lives</h2>
 
-<details>
-  <summary>📊 GitHub Contribution Graph</summary>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahadianMs&bg_color=011627&color=7FDBCA&title_color=A77DCB&line=A77DCB&point=FF6600&area_color=FFEB95&area=true&hide_border=true&hide_title=true&days=90" alt="Activity Graph" width="100%" />
-</details>
+> **This account holds my early learning experiments and certificates.** My day-to-day production work — enterprise ERPs, national MRV portals, ESG SaaS, and multi-stakeholder platforms — lives on my **work account** at <a href="https://github.com/raha-wisesteps"><b>@raha-wisesteps</b></a>.
 
-<details>
-  <summary>🎛️ GitHub Profile Stats</summary>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=rahadianMs&show_icons=true&theme=nightowl&hide_border=true" alt="GitHub Stats" width="49.5%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rahadianMs&theme=nightowl&date_format=j%20M%5B%20Y%5D&fire=FF6600&ring=FF6656&hide_border=true" alt="GitHub Streak" width="49.5%" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahadianMs&langs_count=10&layout=compact&theme=nightowl&hide_border=true" alt="Top Languages" width="35.5%" />
-</details>
+<div align="center">
 
-<details>
-  <summary>🏆 GitHub Trophies</summary>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=rahadianMs&theme=algolia&no-frame=true&column=-1&margin-w=5&margin-h=5" alt="GitHub Trophy" width="100%" />
-</details>
+  <a href="https://github.com/raha-wisesteps" target="_blank">
+    <img src="https://img.shields.io/badge/🛠%20See%20My%20Production%20Work-@raha--wisesteps-4A8B6F?style=for-the-badge&logoColor=white" alt="Visit @raha-wisesteps" />
+  </a>
+
+</div>
+
+<p align="center">
+  <i>Most repos there are private (client / NDA), but the README explains the project surface, stack, and impact metrics for each one — recruiters welcome to reach out for walkthroughs.</i>
+</p>
 
 <br/>
 
