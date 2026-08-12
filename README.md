@@ -21,6 +21,9 @@
     <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vS9t6-wB2Z-U15UpWBnGA-YeNAEW3jA4LUXSXzgbYUYrfMHFmjmi6Pvjvb2r6hLCmb858L1Mu-7VOXn/pubhtml" target="_blank">
       <img src="https://img.shields.io/badge/IDCamp-Data_Scientist_Expert-8B2FF0?style=for-the-badge&logo=indeed" alt="IDCamp Data Scientist Expert" />
     </a>
+    <a href="https://drive.google.com/file/d/1leY02V8tzFLU9InLId__4WZwmesM0EsI/view" title="GSTC Professional Certificate in Sustainable Tourism" target="_blank">
+      <img src="https://img.shields.io/badge/GSTC-Professional_Certificate_in_Sustainable_Tourism-4A8B6F?style=for-the-badge" alt="GSTC Professional Certificate in Sustainable Tourism" />
+    </a>
   </p>
 
   <!-- Portfolio & Project Links -->
