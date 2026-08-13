@@ -1,301 +1,176 @@
 <div align="center">
 
-  <h1>Hello <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px">,<br/>I’m Rahadian Muhammad Sutandar</h1>
+# Hi, I’m Rahadian Muhammad Sutandar 👋
 
-  <p>
-    <b>Product Manager · AI-Native Full-Stack Builder · Smart Tourism Systems Engineer</b><br/>
-    📍 Bandung, Indonesia · 🏢 Currently @ <a href="https://wisesteps.id">Wise Steps Consulting</a>
-  </p>
+**Product Engineer · AI-Native Full-Stack Builder · Smart Tourism and ESG Systems**
 
-  <!-- Credential Badges -->
-  <p>
-    <a href="https://www.credential.net/4fb297c2-e92b-4618-b966-cf7d3ade9e99#acc.BDX3i9aS" title="TensorFlow Certified Developer" target="_blank">
-      <img src="https://img.shields.io/badge/TensorFlow-Certified-FF6700?style=for-the-badge&logo=tensorflow" alt="TensorFlow Certified" />
-    </a>
-    <a href="https://drive.google.com/file/d/1WDPBGmuGGMhFINdQpwHKywcVhq4-3Q1i/view" target="_blank">
-      <img src="https://img.shields.io/badge/Bangkit_Academy-Top_10%25_ML-blue?style=for-the-badge&logo=google" alt="Bangkit Academy — Top 10% ML"/>
-    </a>
-    <a href="https://drive.google.com/file/d/1R2lO3_R0ywXyjEz3BT38wcykb7TC8ArX/view">
-      <img src="https://img.shields.io/badge/BNSP-First_Expert_Planner-red?style=for-the-badge" alt="BNSP First Expert Planner" />
-    </a>
-    <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vS9t6-wB2Z-U15UpWBnGA-YeNAEW3jA4LUXSXzgbYUYrfMHFmjmi6Pvjvb2r6hLCmb858L1Mu-7VOXn/pubhtml" target="_blank">
-      <img src="https://img.shields.io/badge/IDCamp-Data_Scientist_Expert-8B2FF0?style=for-the-badge&logo=indeed" alt="IDCamp Data Scientist Expert" />
-    </a>
-    <a href="https://drive.google.com/file/d/1leY02V8tzFLU9InLId__4WZwmesM0EsI/view" title="GSTC Professional Certificate in Sustainable Tourism" target="_blank">
-      <img src="https://img.shields.io/badge/GSTC-Professional_Certificate_in_Sustainable_Tourism-4A8B6F?style=for-the-badge" alt="GSTC Professional Certificate in Sustainable Tourism" />
-    </a>
-  </p>
+Bandung, Indonesia · Currently at [Wise Steps Consulting](https://wisesteps.id)
 
-  <!-- Portfolio & Project Links -->
-  <p>
-    <a href="https://github.com/rahadianMs/MyProject/blob/ec964574dfcc294454970dab2bf8aed27ca4d7fa/README.md" target="_blank">
-      <img src="https://img.shields.io/badge/-💼%20My%20Projects-blue?style=for-the-badge" alt="My Projects"/>
-    </a>
-    <a href="https://github.com/rahadianMs/MyCertificates/blob/05728f6041c37e649ea8bfa346e8fda3c3b1854b/README.md" target="_blank">
-      <img src="https://img.shields.io/badge/-📜%20My%20Certificates-blue?style=for-the-badge" alt="My Certificates"/>
-    </a>
-    <a href="https://www.linkedin.com/in/rahadianms/" target="_blank">
-      <img src="https://img.shields.io/badge/-🤝%20LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn"/>
-    </a>
-  </p>
+<p>
+  <a href="https://www.rahadian.xyz/">
+    <img src="https://img.shields.io/badge/Portfolio-rahadian.xyz-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/rahadianms/">
+    <img src="https://img.shields.io/badge/LinkedIn-rahadianms-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rahadianms.work@gmail.com">
+    <img src="https://img.shields.io/badge/Work_Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Work email" />
+  </a>
+</p>
 
-  <!-- GitHub Stats Info -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=rahadianMs&style=for-the-badge&label=Profile+Views" alt="profile views"> &nbsp;
-    <img src="https://img.shields.io/github/last-commit/rahadianMs/rahadianMs?style=for-the-badge&label=Last+Update" alt="last update">
-  </p>
+<p>
+  <a href="https://www.credential.net/4fb297c2-e92b-4618-b966-cf7d3ade9e99">
+    <img src="https://img.shields.io/badge/TensorFlow-Certified_Developer-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Certified Developer" />
+  </a>
+  <a href="https://drive.google.com/file/d/1OHJH0E40k7d6UI_erGir1JfZpxMSyMa5/view">
+    <img src="https://img.shields.io/badge/IDCamp-Data_Scientist_Expert-5B21B6?style=for-the-badge&logo=python&logoColor=white" alt="IDCamp Data Scientist Expert" />
+  </a>
+  <a href="https://drive.google.com/file/d/1R2lO3_R0ywXyjEz3BT38wcykb7TC8ArX/view">
+    <img src="https://img.shields.io/badge/BNSP-First_Expert_Planner-B91C1C?style=for-the-badge&logo=googlemaps&logoColor=white" alt="BNSP First Expert Planner" />
+  </a>
+  <a href="https://drive.google.com/file/d/1leY02V8tzFLU9InLId__4WZwmesM0EsI/view">
+    <img src="https://img.shields.io/badge/GSTC-Professional_Certificate-277C63?style=for-the-badge&logo=leaflet&logoColor=white" alt="GSTC Professional Certificate in Sustainable Tourism" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/rahadianMs/MyProject">
+    <img src="https://img.shields.io/badge/Projects-MyProject-2563EB?style=flat-square&logo=github&logoColor=white" alt="Project archive" />
+  </a>
+  <a href="https://github.com/rahadianMs/MyCertificates">
+    <img src="https://img.shields.io/badge/Credentials-MyCertificates-2563EB?style=flat-square&logo=github&logoColor=white" alt="Credential archive" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=rahadianMs&style=flat-square&label=Profile+views" alt="Profile views" />
+</p>
 
 </div>
 
+## About
 
-<br/>
+I build secure, data-backed products at the intersection of **product engineering, smart tourism, sustainability, spatial planning, and applied AI**. My work spans system architecture, database design, row-level security, full-stack implementation, analytics, deployment, and stakeholder-facing delivery.
 
-<h2>👨‍💻 About Me</h2>
+At **Wise Steps Consulting**, my formal title is **Smart Tourism Data Analyst**. My current delivery scope is best described publicly as **Product Engineer**: translating policy, operational, tourism, and ESG requirements into working software. Recent work includes enterprise management systems, carbon and water MRV, ESG disclosure, GSTC certification workflows, stakeholder platforms, and decision dashboards.
 
-```cpp
-#include <iostream>
-#include <string>
-using namespace std;
+My core stack is **Next.js, TypeScript, React, Supabase, PostgreSQL, RLS, Python, and Pandas**, supported by an Urban and Regional Planning background and domain work in GIS, sustainable tourism, GHG accounting, and ESG frameworks.
 
-int main() {
-    cout << "👋 Rahadian Muhammad Sutandar\n";
-    cout << "Bridging Urban Planning, Product, and AI-Native Engineering.\n\n";
-
-    string role     = "🏢 Product Manager & Smart Tourism Data Analyst @ Wise Steps Consulting";
-    string identity = "🧠 Systems Engineer · Full-Stack Builder · Data Scientist";
-    string foundation = "🎓 Urban & Regional Planning Engineering, Univ. Islam Bandung (GPA 3.87, Cum Laude)";
-    string focus    = "📖 Smart Tourism, Sustainable Tech, AI/ML, GIS, Product Operations";
-    string building = "🛠 Building enterprise ERPs, national MRV portals, and ESG SaaS for gov & BUMN";
-    string learning = "🌱 Sharpening agentic AI workflows, LLM ops, and Next.js + Supabase at scale";
-    string collab   = "👯 Open to: Smart Tourism, Urban Tech, Data Infrastructure, MICE Analytics";
-    string ask      = "💬 Ask me about Product Mgmt, LLM Sentiment, GIS, GSTC, GHG Protocol";
-    string email    = "📩 rahadianms.work@gmail.com · rahadiansutandar@gmail.com";
-    string funfact  = "⚡ I ship resilient, data-backed products — from DB schema to deployment.";
-    return 0;
-}
-```
-
-<br/>
-
-<h2>🚀 Currently</h2>
+## Current focus
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🏢 Role**<br/>
-Product Manager & Smart Tourism Data Analyst at **Wise Steps Consulting** — promoted from Project Assistant Intern. Driving smart tourism product strategy for government ministries, BUMN, and enterprise clients across Indonesia.
+### 🧱 Product engineering
 
-**🛠 Building**<br/>
-Internal ERPs, national carbon-tracking portals, ESG SaaS, and stakeholder coordination platforms — end-to-end on Next.js 16, TypeScript, and Supabase.
+- Multi-tenant SaaS and enterprise internal systems
+- PostgreSQL schema, functions, triggers, and RLS
+- Authentication, authorization, audit trails, and secure workflows
+- Bilingual product delivery and document exports
 
 </td>
 <td width="50%" valign="top">
 
-**🌱 Learning**<br/>
-Agentic AI workflows, LLM observability, advanced Postgres / RLS patterns, and production-grade ML deployment.
+### 🌏 Tourism, ESG, and data
 
-**💭 Open for collaboration**<br/>
-Smart-tourism systems · ESG data infrastructure · urban-tech consulting · spatial planning analytics · MICE event impact measurement.
+- Smart and sustainable tourism systems
+- Carbon and water MRV workflows
+- ESG disclosure and framework mapping
+- Applied AI, analytics, GIS, and decision support
 
 </td>
 </tr>
 </table>
 
-<br/>
+## Selected product delivery
 
-<h2>🏆 Highlights</h2>
+Most production source code is held in private work or client repositories. The links below point to public deployments where available.
 
-<table>
-<tr>
-<th>Metric</th>
-<th>Context</th>
-</tr>
-<tr>
-<td><b>~$14K USD saved</b> · 40% admin workload cut</td>
-<td>Architected an enterprise ERP (HRIS + CRM + Operations + Sustainability) solo in <b>3 months</b> — work that typically requires a 3–5 person team over 5 months.</td>
-</tr>
-<tr>
-<td><b>95.93% classification accuracy</b></td>
-<td>Undergraduate thesis applying Gemini LLM to community sentiment data on Halal Tourism Policy in Bandung Regency.</td>
-</tr>
-<tr>
-<td><b>29,000+ records processed</b></td>
-<td>Built an NLP + Scikit-learn data pipeline analysing tour-operator sustainability data for <b>Evaneos (Paris)</b>.</td>
-</tr>
-<tr>
-<td><b>3 Indonesian ministries served</b></td>
-<td>ATR/BPN (Spatial Planning), Ministry of Tourism, Ministry of Villages — strategic data, MVP platforms, and national exit strategy.</td>
-</tr>
-<tr>
-<td><b>Top 10%</b> of 1,900+ ML grads</td>
-<td>Distinction graduate, Bangkit Academy 2023 (by Google · GoTo · Traveloka). Earned TensorFlow Developer Certificate.</td>
-</tr>
-<tr>
-<td><b>&lt;0.7% acceptance rate</b></td>
-<td>Selected for IDCamp 2024 Data Scientist <b>Expert Cohort</b> — fully-funded by Indosat Ooredoo Hutchison.</td>
-</tr>
-<tr>
-<td><b>88% KPI · "Excellent"</b></td>
-<td>Led 5-person intern team on Sungai Manau RDTR — MSIB INSPIRING program (18.3% acceptance from 1,717 applicants).</td>
-</tr>
-</table>
+| Product | Delivery context | Scope and status | Live |
+|---|---|---|---|
+| **IMS WSC** | Wise Steps Consulting internal platform | Enterprise ERP spanning HRIS, CRM, projects, finance, procurement, and sustainability workflows | [Open platform](https://ims.wisestepsconsulting.id/) |
+| **ESG Wise Impact** | Wise Steps Consulting B2B product | Multi-tenant ESG disclosure SaaS mapping 195 metrics to 8 frameworks. Current organizations and submissions are demo or seed data | [Open platform](https://www.esg-wsc.id/) |
+| **WIDI Hub** | Wise Steps Consulting with Ministry of Tourism RI | Tourism carbon portal with Scope 1, Scope 2, waste-only Scope 3, GIS, verification, and reports. Current accounts are testing data in an MVP | [Open portal](https://osp.wisestepsconsulting.id/) |
+| **ITDC Nusa Dua ERMC** | Wise Steps Consulting for InJourney and ITDC | Destination carbon and water MRV for The Nusa Dua estate, including GHG scopes and GRI 303 reporting | [Open platform](https://itdcnusadua.wisestepsconsulting.web.id/) |
+| **GSTC Certification Assistant** | Wise Steps Consulting for InJourney | Multi-tenant certification workspace for destination, accommodation, and tour-operator schemes | [Open platform](https://gstc.wisestepsconsulting.id/) |
+| **GSTC Nusa Dua Portal** | Wise Steps Consulting for ITDC Nusa Dua | Bespoke certification MVP that preceded the multi-tenant GSTC Certification Assistant | [Open portal](https://wisestepsconsulting.vercel.app/) |
+| **Indonesia Tourism Stakeholder Platform** | Wise Steps Consulting and Wonderful Indonesia | Public site, community platform, and admin CMS for sustainable-tourism collaboration | [sustainabletourism.id](https://www.sustainabletourism.id/) |
+| **IMS LMFE Padjadjaran** | Wise Steps Consulting for FEB Universitas Padjadjaran | Management system with workload, KPI, project, authentication, and reporting workflows | [Open platform](https://ims.lmfeunpad.id/) |
+| **Tourism Events Impact Tracker** | Wise Steps Consulting product concept | Triple Bottom Line event-impact dashboard using illustrative mock data | [Open mockup](https://dampakevent.wisestepsconsulting.web.id/) |
+| **CEM, Voice of Customer** | Wise Steps Consulting internal concept | Frontend proof of concept for hotel, mall, and restaurant survey analytics. Text analysis is heuristic, not ML | [Open PoC](https://cem-wsc.vercel.app/) |
 
-<br/>
+## Selected AI, data, and planning work
 
-<h2>🧭 What I Build</h2>
+| Work | Evidence and result |
+|---|---|
+| **Halal Tourism Policy Sentiment Analysis** | Gemini 1.0 Pro analysis over a 245-respondent survey with 95.93% accuracy. [View thesis artifact](https://github.com/rahadianMs/MyProject/blob/main/Sentiment%20Analysis%20of%20Halal%20Tourism%20Policy%20using%20Gemini%20LLM/PPT%20SKRIPSI_Rahadian%20Muhammad%20Sutandar_10070320117_SIDANG%20TERBUKA.pdf) |
+| **Grab App Reviews Sentiment Analysis** | NLP pipeline over 112,501 Google Play reviews using TF-IDF, Word2Vec, BiLSTM, Random Forest, and Logistic Regression |
+| **Vegetable Image Classification** | TensorFlow and Keras CNN with 95% validation accuracy, exported to H5, SavedModel, TFLite, and TensorFlow.js |
+| **Exit Strategy for 62 Underdeveloped Regions** | Strategic planning, data analysis, FGD sentiment work, visualization, and final-report restructuring for a national government program |
+| **Sungai Manau RDTR** | GIS, demographic, infrastructure, and regulatory planning work while coordinating a five-person MSIB INSPIRING team |
 
-- 🏗 **Enterprise ERPs & internal tools** — HRIS, CRM, operations dashboards, finance modules (Next.js + Supabase + shadcn/ui)
-- 🌍 **National-scale MRV & ESG platforms** — GHG Protocol Scope 1/2/3, GRI 303, IPCC waste methodology, multi-tenant verification workflows
-- 🤖 **AI-powered analytics** — LLM sentiment pipelines, Python ML, NLP for unstructured data, agentic workflows
-- 🗺 **Spatial & urban systems** — RDTR development, ArcGIS/QGIS, geospatial analysis, smart-city infrastructure design
-- 📊 **Decision-grade dashboards** — Recharts + Leaflet visualizations, executive command centers, stakeholder reports
+## Credentials
 
-<br/>
+| Credential | Issuer | Proof |
+|---|---|---|
+| **Professional Certificate in Sustainable Tourism** | GSTC | [View credential](https://drive.google.com/file/d/1leY02V8tzFLU9InLId__4WZwmesM0EsI/view) |
+| **TensorFlow Developer Certificate** | TensorFlow | [View credential](https://www.credential.net/4fb297c2-e92b-4618-b966-cf7d3ade9e99) |
+| **Data Scientist Expert** | IDCamp by Indosat Ooredoo Hutchison | [View credential](https://drive.google.com/file/d/1OHJH0E40k7d6UI_erGir1JfZpxMSyMa5/view) |
+| **First Expert Planner, Qualification 6** | BNSP | [View credential](https://drive.google.com/file/d/1R2lO3_R0ywXyjEz3BT38wcykb7TC8ArX/view) |
+| **AI Master Trainers, AI Ready ASEAN** | ASEAN Foundation | [View credential](https://drive.google.com/file/d/1xezIui3e2XcIM1gQVdkNjR-SNj_dQdgA/view) |
 
-<h2>🧷 Connect with Me</h2>
-<p>
-  <a href="https://www.linkedin.com/in/rahadianms/" title="LinkedIn" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/rahadianMs" title="GitHub">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:rahadianms.work@gmail.com" title="Work Email">
-    <img src="https://img.shields.io/badge/-Work%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Work Email" />
-  </a>
-  <a href="mailto:rahadiansutandar@gmail.com" title="Personal Email">
-    <img src="https://img.shields.io/badge/-Personal%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email" />
-  </a>
-  <a href="https://instagram.com/rahadian_ms" title="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+[Browse the complete public credential archive](https://github.com/rahadianMs/MyCertificates)
 
-<br/>
-
-<h2>🛠 Languages & Tools</h2>
+## Languages and tools
 
 <details open>
-<summary><b>🤖 Data, AI & Machine Learning</b></summary>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Gemini_LLM-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini LLM" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab" />
-  <img src="https://img.shields.io/badge/Claude_Code-D4A27F?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
-</p>
-</details>
-
-<details open>
-<summary><b>🧱 Full-Stack & Product Engineering</b></summary>
+<summary><b>🧱 Full-stack and data infrastructure</b></summary>
 <br/>
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 </details>
 
 <details open>
-<summary><b>🗺 Spatial Planning & GIS</b></summary>
+<summary><b>🤖 AI and analytics</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge" alt="Recharts" />
+</p>
+</details>
+
+<details>
+<summary><b>🗺 GIS, planning, and domain delivery</b></summary>
 <br/>
 <p>
   <img src="https://img.shields.io/badge/ArcGIS-2C7D26?style=for-the-badge&logo=esri&logoColor=white" alt="ArcGIS" />
   <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS" />
   <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet" />
-  <img src="https://img.shields.io/badge/Geodatabase-005F73?style=for-the-badge" alt="Geodatabase" />
-  <img src="https://img.shields.io/badge/RDTR_Planning-C4913A?style=for-the-badge" alt="RDTR Planning" />
-  <img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD" />
+  <img src="https://img.shields.io/badge/GHG_MRV-166534?style=for-the-badge&logo=googleearth&logoColor=white" alt="GHG MRV" />
+  <img src="https://img.shields.io/badge/ESG_Disclosure-0F766E?style=for-the-badge&logo=leaflet&logoColor=white" alt="ESG disclosure" />
+  <img src="https://img.shields.io/badge/Sustainable_Tourism-277C63?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Sustainable tourism" />
 </p>
 </details>
 
-<details>
-<summary><b>📐 Product, Design & Collaboration</b></summary>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow" alt="Miro" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-</p>
-</details>
+## Where the code lives
 
-<details>
-<summary><b>☁️ Cloud, Office & Productivity</b></summary>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="Alibaba Cloud" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="MS Office" />
-  <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Workspace" />
-</p>
-</details>
+This personal account contains my public learning projects, portfolio references, and credential archive. Most current product-delivery repositories are private or held under my work account, [**@raha-wisesteps**](https://github.com/raha-wisesteps), because they involve internal or client systems.
 
-<br/>
-
-<h2>📰 Selected Work (2024–2025)</h2>
-
-> Most of the work below was delivered through my role at Wise Steps Consulting and partner organizations — source code lives on private/work repositories. Reach out via <a href="mailto:rahadianms.work@gmail.com">work email</a> or <a href="https://www.linkedin.com/in/rahadianms/">LinkedIn</a> for case-study walkthroughs.
-
-| Year | Project | Stakeholder | Role |
-|---|---|---|---|
-| 2025 | **WIDI Hub** — National Single Portal for Tourism Carbon Tracking | Ministry of Tourism RI | Product Manager · Full-Stack |
-| 2025 | **ITDC Nusa Dua ERMC** — Production MRV platform for 19+ hotel tenants | InJourney · ITDC (BUMN) | Product Manager |
-| 2025 | **GSTC Certification Assistant** — Multi-role audit workflow + i18n | InJourney | Product Manager |
-| 2025 | **IMS WSC** — Enterprise ERP (HRIS+CRM+Operations+Sustainability) | Wise Steps Consulting | Product Manager · Builder |
-| 2025 | **Tourism Sustainability Pipeline** — 29k+ records, NLP+Scikit-learn | Evaneos (Paris) | Data Analyst |
-| 2024 | **Halal Tourism Policy Sentiment** — Gemini LLM, 95.93% accuracy | Undergraduate Thesis | Data Analyst |
-| 2024 | **Exit Strategy for 62 Underdeveloped Regions** — LLM-driven FGD analysis | Ministry of Villages | Data Analyst |
-| 2022 | **Sungai Manau RDTR** — City-level spatial plan, 5-person team | Ministry of ATR/BPN | Project Coordinator |
-
-<br/>
-
-<h2>👀 Where the real code lives</h2>
-
-> **This account holds my early learning experiments and certificates.** My day-to-day production work — enterprise ERPs, national MRV portals, ESG SaaS, and multi-stakeholder platforms — lives on my **work account** at <a href="https://github.com/raha-wisesteps"><b>@raha-wisesteps</b></a>.
+The public deployments above provide a reviewable view of the product surface. For architecture or case-study walkthroughs, contact me through [LinkedIn](https://www.linkedin.com/in/rahadianms/) or [work email](mailto:rahadianms.work@gmail.com).
 
 <div align="center">
 
-  <a href="https://github.com/raha-wisesteps" target="_blank">
-    <img src="https://img.shields.io/badge/🛠%20See%20My%20Production%20Work-@raha--wisesteps-4A8B6F?style=for-the-badge&logoColor=white" alt="Visit @raha-wisesteps" />
-  </a>
+### Let’s build useful, secure, and data-backed systems.
 
-</div>
-
-<p align="center">
-  <i>Most repos there are private (client / NDA), but the README explains the project surface, stack, and impact metrics for each one — recruiters welcome to reach out for walkthroughs.</i>
-</p>
-
-<br/>
-
-<div align="center">
-
-  <h3>💡 Let's build something resilient and data-backed.</h3>
-  <p><i>Open for product consulting, smart-tourism systems, and data-science engagements.</i></p>
-  <p>
-    <a href="mailto:rahadianms.work@gmail.com">
-      <img src="https://img.shields.io/badge/-📩%20Get%20in%20Touch-4A8B6F?style=for-the-badge" alt="Get in Touch" />
-    </a>
-  </p>
-
-  <h1></h1>
-  <p>© 2025 Rahadian Muhammad Sutandar · Bandung, Indonesia</p>
+© 2026 Rahadian Muhammad Sutandar · Bandung, Indonesia
 
 </div>
