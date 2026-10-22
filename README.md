@@ -2,9 +2,11 @@
 
 # Hi, I’m Rahadian Muhammad Sutandar 👋
 
-**Product Engineer · AI-Native Full-Stack Builder · Smart Tourism and ESG Systems**
+**Smart Tourism Product Engineer · Wise Steps Consulting**
 
-Bandung, Indonesia · Currently at [Wise Steps Consulting](https://wisesteps.id)
+I build and ship complete products end to end: from the client brief to the database, the screens and the deploy.
+
+Bandung, Indonesia · Formal title: Smart Tourism Data Analyst, Smart Tourism IT division at [Wise Steps Consulting](https://wisesteps.id)
 
 <p>
   <a href="https://www.rahadian.xyz/">
@@ -47,65 +49,53 @@ Bandung, Indonesia · Currently at [Wise Steps Consulting](https://wisesteps.id)
 
 ## About
 
-I build secure, data-backed products at the intersection of **product engineering, smart tourism, sustainability, spatial planning, and applied AI**. My work spans system architecture, database design, row-level security, full-stack implementation, analytics, deployment, and stakeholder-facing delivery.
+I am a **Product Engineer** in smart and sustainable tourism. One label covers the whole job: product thinking, solutions architecture and hands-on building. I turn a client brief into a working product, with AI agents as the build team and every change reviewed by me before it reaches production.
 
-At **Wise Steps Consulting**, my formal title is **Smart Tourism Data Analyst**. My current delivery scope is best described publicly as **Product Engineer**: translating policy, operational, tourism, and ESG requirements into working software. Recent work includes enterprise management systems, carbon and water MRV, ESG disclosure, GSTC certification workflows, stakeholder platforms, and decision dashboards.
+At **Wise Steps Consulting** I joined as an intern in Jul 2025 and have worked full time since Nov 2025. Since Jan 2026 I build and ship the division's products end to end, working with one intern whom I supervise. As a freelancer I also deliver small digital-transformation projects for local businesses.
 
-My core stack is **Next.js, TypeScript, React, Supabase, PostgreSQL, RLS, Python, and Pandas**, supported by an Urban and Regional Planning background and domain work in GIS, sustainable tourism, GHG accounting, and ESG frameworks.
+My background is **Urban and Regional Planning**. It shapes how I work: see the whole system, keep scope and claims honest, and make the web lighter.
 
-## Current focus
+## Highlights (Nov 2025 to Oct 2026)
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧱 Product engineering
-
-- Multi-tenant SaaS and enterprise internal systems
-- PostgreSQL schema, functions, triggers, and RLS
-- Authentication, authorization, audit trails, and secure workflows
-- Bilingual product delivery and document exports
-
-</td>
-<td width="50%" valign="top">
-
-### 🌏 Tourism, ESG, and data
-
-- Smart and sustainable tourism systems
-- Carbon and water MRV workflows
-- ESG disclosure and framework mapping
-- Applied AI, analytics, GIS, and decision support
-
-</td>
-</tr>
-</table>
+- 🏢 **Built the ERP that runs the whole firm.** 13 users, from the CEO to the interns. It helped Wise Steps Consulting get **ISO 9001:2015 certified** (Control Union, Aug 2026): the auditor reviewed workflows run inside the system and documents kept under version control in it. 14 releases from Jan to Sep 2026.
+- 💳 **Built the firm's first sell-ready SaaS (ESG Wise Impact)** with a **DOKU payment gateway live in production** since Jul 2026, tested end to end. A complete product, now in pilot use.
+- 🌏 **Built a GSTC certification platform used for an official training.** It ran the firm's offline GSTC training in Bandung (Sep 2026, 15 participants including hotel general managers, managers and lecturers). Its first version served ITDC Nusa Dua (InJourney Group).
+- 🚀 **Delivered client systems fast.** A booking and operations app for **Imperial Living** in about two weeks (live since Oct 2026, used daily by 15 people, freelance), an internal management system for a research center at Universitas Padjadjaran in about a month, and 13 modules in a client's ERP (go-live planned Dec 2026).
+- 🌱 **Four of my sites are rated A or A+ on [Website Carbon](https://www.websitecarbon.com/)**, 0.03 to 0.05 g CO2 per visit, cleaner than 91 to 94 percent of web pages (Aug to Oct 2026).
+- 🤖 **AI-ready engineering.** A semantic layer as the single source of truth for developers and AI agents in three products, plus automated tests and Playwright QC scenarios (the ERP alone: 1,586 unit tests and 26 Playwright scenarios), so code written with AI stays correct and safe.
+- 🧩 **Pre-sales mockups in days.** Clickable mockups (one built in 5 days) presented to clients to win their interest before any backend is built.
 
 ## Selected product delivery
 
-Most production source code is held in private work or client repositories. The links below point to public deployments where available.
+Most production source code lives in private work or client repositories. The links below point to public deployments where they exist.
 
-| Product | Delivery context | Scope and status | Live |
+| Product | Context | What it is | Status |
 |---|---|---|---|
-| **IMS WSC** | Wise Steps Consulting internal platform | Enterprise ERP spanning HRIS, CRM, projects, finance, procurement, and sustainability workflows | [Open platform](https://ims.wisestepsconsulting.id/) |
-| **ESG Wise Impact** | Wise Steps Consulting B2B product | Multi-tenant ESG disclosure SaaS mapping 195 metrics to 8 frameworks. Current organizations and submissions are demo or seed data | [Open platform](https://www.esg-wsc.id/) |
-| **WIDI Hub** | Wise Steps Consulting with Ministry of Tourism RI | Tourism carbon portal with Scope 1, Scope 2, waste-only Scope 3, GIS, verification, and reports. Current accounts are testing data in an MVP | [Open portal](https://osp.wisestepsconsulting.id/) |
-| **ITDC Nusa Dua ERMC** | Wise Steps Consulting for InJourney and ITDC | Destination carbon and water MRV for The Nusa Dua estate, including GHG scopes and GRI 303 reporting | [Open platform](https://itdcnusadua.wisestepsconsulting.web.id/) |
-| **GSTC Certification Assistant** | Wise Steps Consulting for InJourney | Multi-tenant certification workspace for destination, accommodation, and tour-operator schemes | [Open platform](https://gstc.wisestepsconsulting.id/) |
-| **GSTC Nusa Dua Portal** | Wise Steps Consulting for ITDC Nusa Dua | Bespoke certification MVP that preceded the multi-tenant GSTC Certification Assistant | [Open portal](https://wisestepsconsulting.vercel.app/) |
-| **Indonesia Tourism Stakeholder Platform** | Wise Steps Consulting and Wonderful Indonesia | Public site, community platform, and admin CMS for sustainable-tourism collaboration | [sustainabletourism.id](https://www.sustainabletourism.id/) |
-| **IMS LMFE Padjadjaran** | Wise Steps Consulting for FEB Universitas Padjadjaran | Management system with workload, KPI, project, authentication, and reporting workflows | [Open platform](https://ims.lmfeunpad.id/) |
-| **Tourism Events Impact Tracker** | Wise Steps Consulting product concept | Triple Bottom Line event-impact dashboard using illustrative mock data | [Open mockup](https://dampakevent.wisestepsconsulting.web.id/) |
-| **CEM, Voice of Customer** | Wise Steps Consulting internal concept | Frontend proof of concept for hotel, mall, and restaurant survey analytics. Text analysis is heuristic, not ML | [Open PoC](https://cem-wsc.vercel.app/) |
+| **IMS WSC** | Wise Steps Consulting, internal | ERP for HR, attendance, KPI, CRM, projects, finance, procurement and sustainability; the system the firm's ISO 9001:2015 quality system runs on | [Live](https://ims.wisestepsconsulting.id/) |
+| **ESG Wise Impact** | Wise Steps Consulting, B2B SaaS | Multi-tenant ESG disclosure SaaS: 195 metrics mapped to 8 frameworks, PDF, Word and Excel reports, DOKU checkout | [Live, pilot use](https://www.esg-wsc.id/) |
+| **GSTC Certification Assistant** | Wise Steps Consulting product | Guided GSTC self-assessment and evidence review for destinations and accommodations, bilingual ID and EN | [Live](https://gstc.wisestepsconsulting.id/) |
+| **Indonesia Tourism Stakeholder Platform** | Wise Steps Consulting and Wonderful Indonesia | Public platform plus a community forum built in about 4 weeks, one login across both | [sustainabletourism.id](https://www.sustainabletourism.id/) |
+| **Imperial Living booking app** | Freelance, Imperial Living, Bandung | Booking, cleaning queue, payments and owner reports for 40 hourly-rental units; double booking blocked in the database | [Live](https://imperialliving.id/) |
+| **IMS LMFE Padjadjaran** | Wise Steps Consulting for FEB Universitas Padjadjaran | Internal management system with workload capacity, KPI, projects and reporting | Handed over Jun 2026 |
+| **Client ERP modules** | Wise Steps Consulting client | 13 modules in a client's ERP, Laravel and Nuxt | Go-live planned Dec 2026 |
+| **GSTC Nusa Dua Portal** | Wise Steps Consulting for ITDC Nusa Dua | First version of the GSTC platform; the client's data moved to the GSTC Certification Assistant in Oct 2026 | Superseded |
+| **WIDI Hub** | Wise Steps Consulting for the Ministry of Tourism RI | National tourism carbon portal MVP (Scope 1, 2 and waste Scope 3, GIS maps); prototype and concept for an emission calculator | Archived |
+| **ITDC Nusa Dua ERMC** | Wise Steps Consulting for ITDC | Carbon and water MRV MVP for The Nusa Dua estate (GHG scopes, GRI 303) | Archived |
+| **Tourism Events Impact Tracker** | Wise Steps Consulting pre-sales mockup | Triple Bottom Line event-impact dashboard with illustrative mock data | [Archived mockup](https://dampakevent.wisestepsconsulting.web.id/) |
+| **CEM, Voice of Customer** | Wise Steps Consulting pre-sales mockup | Survey to insight dashboard for hotels, malls and restaurants, built in 5 days | [Archived mockup](https://cem-wsc.vercel.app/) |
 
-## Selected AI, data, and planning work
+More detail per project: [**MyProject**](https://github.com/rahadianMs/MyProject).
+
+## Selected AI, data and planning work
 
 | Work | Evidence and result |
 |---|---|
+| **Evaneos "Indonesia 360" booking data analysis** | Data analyst work for an international client (Evaneos, Paris): about 29,000 raw booking records cleaned into 16,000+ analysis-ready rows (about 1,200 trips) with Python and pandas, plus a keyword-based destination classifier. [View the code](https://github.com/rahadianMs/MyProject/tree/main/Evaneos_INDO360_Data_Analysis) |
 | **Halal Tourism Policy Sentiment Analysis** | Gemini 1.0 Pro analysis over a 245-respondent survey with 95.93% accuracy. [View thesis artifact](https://github.com/rahadianMs/MyProject/blob/main/Sentiment%20Analysis%20of%20Halal%20Tourism%20Policy%20using%20Gemini%20LLM/PPT%20SKRIPSI_Rahadian%20Muhammad%20Sutandar_10070320117_SIDANG%20TERBUKA.pdf) |
-| **Grab App Reviews Sentiment Analysis** | NLP pipeline over 112,501 Google Play reviews using TF-IDF, Word2Vec, BiLSTM, Random Forest, and Logistic Regression |
-| **Vegetable Image Classification** | TensorFlow and Keras CNN with 95% validation accuracy, exported to H5, SavedModel, TFLite, and TensorFlow.js |
-| **Exit Strategy for 62 Underdeveloped Regions** | Strategic planning, data analysis, FGD sentiment work, visualization, and final-report restructuring for a national government program |
-| **Sungai Manau RDTR** | GIS, demographic, infrastructure, and regulatory planning work while coordinating a five-person MSIB INSPIRING team |
+| **Grab App Reviews Sentiment Analysis** | NLP pipeline over 112,501 Google Play reviews using TF-IDF, Word2Vec, BiLSTM, Random Forest and Logistic Regression (90% test accuracy) |
+| **Vegetable Image Classification** | TensorFlow and Keras CNN with 95% validation accuracy, exported to H5, SavedModel, TFLite and TensorFlow.js |
+| **Exit Strategy for 62 Underdeveloped Regions** | Strategic planning, data analysis, FGD sentiment work, visualization and final-report restructuring for a national government program |
+| **Sungai Manau RDTR** | GIS, demographic, infrastructure and regulatory planning work while coordinating an MSIB INSPIRING team |
 
 ## Credentials
 
@@ -113,43 +103,60 @@ Most production source code is held in private work or client repositories. The 
 |---|---|---|
 | **Professional Certificate in Sustainable Tourism** | GSTC | [View credential](https://drive.google.com/file/d/1leY02V8tzFLU9InLId__4WZwmesM0EsI/view) |
 | **TensorFlow Developer Certificate** | TensorFlow | [View credential](https://www.credential.net/4fb297c2-e92b-4618-b966-cf7d3ade9e99) |
-| **Data Scientist Expert** | IDCamp by Indosat Ooredoo Hutchison | [View credential](https://drive.google.com/file/d/1OHJH0E40k7d6UI_erGir1JfZpxMSyMa5/view) |
+| **Data Scientist Expert** (full scholarship, under 0.7% acceptance) | IDCamp by Indosat Ooredoo Hutchison | [View credential](https://drive.google.com/file/d/1OHJH0E40k7d6UI_erGir1JfZpxMSyMa5/view) |
 | **First Expert Planner, Qualification 6** | BNSP | [View credential](https://drive.google.com/file/d/1R2lO3_R0ywXyjEz3BT38wcykb7TC8ArX/view) |
+| **ISO 9001:2015 and ISO 19011:2026 Awareness Training** | Control Union | [ISO 9001](https://drive.google.com/file/d/1zVHJfXK9AwfGFLvK6cwYUbRpNXTSIMys/view) · [ISO 19011](https://drive.google.com/file/d/1wygZHRsApbQycSz002LblB4z2Hxud8kO/view) |
 | **AI Master Trainers, AI Ready ASEAN** | ASEAN Foundation | [View credential](https://drive.google.com/file/d/1xezIui3e2XcIM1gQVdkNjR-SNj_dQdgA/view) |
 
 [Browse the complete public credential archive](https://github.com/rahadianMs/MyCertificates)
 
-## Languages and tools
+## Current stack
 
 <details open>
-<summary><b>🧱 Full-stack and data infrastructure</b></summary>
+<summary><b>🧱 Product engineering</b></summary>
 <br/>
 <p>
+  <img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js 16" />
+  <img src="https://img.shields.io/badge/React_19-149ECA?style=for-the-badge&logo=react&logoColor=white" alt="React 19" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/PostgreSQL_+_RLS-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL with Row Level Security" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS v4" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white" alt="Nuxt" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 </details>
 
 <details open>
-<summary><b>🤖 AI and analytics</b></summary>
+<summary><b>✅ Quality, testing and AI-assisted delivery</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white" alt="Resend" />
+  <img src="https://img.shields.io/badge/DOKU_Payments-E2231A?style=for-the-badge" alt="DOKU payment gateway" />
+</p>
+</details>
+
+<details>
+<summary><b>🤖 Data and AI</b></summary>
 <br/>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge" alt="Recharts" />
 </p>
 </details>
 
 <details>
-<summary><b>🗺 GIS, planning, and domain delivery</b></summary>
+<summary><b>🗺 GIS, planning and domain</b></summary>
 <br/>
 <p>
   <img src="https://img.shields.io/badge/ArcGIS-2C7D26?style=for-the-badge&logo=esri&logoColor=white" alt="ArcGIS" />
@@ -157,19 +164,20 @@ Most production source code is held in private work or client repositories. The 
   <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet" />
   <img src="https://img.shields.io/badge/GHG_MRV-166534?style=for-the-badge&logo=googleearth&logoColor=white" alt="GHG MRV" />
   <img src="https://img.shields.io/badge/ESG_Disclosure-0F766E?style=for-the-badge&logo=leaflet&logoColor=white" alt="ESG disclosure" />
-  <img src="https://img.shields.io/badge/Sustainable_Tourism-277C63?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Sustainable tourism" />
+  <img src="https://img.shields.io/badge/GSTC_Sustainable_Tourism-277C63?style=for-the-badge&logo=googlemaps&logoColor=white" alt="GSTC sustainable tourism" />
+  <img src="https://img.shields.io/badge/ISO_9001:2015_QMS-1E3A8A?style=for-the-badge" alt="ISO 9001:2015 quality management" />
 </p>
 </details>
 
 ## Where the code lives
 
-This personal account contains my public learning projects, portfolio references, and credential archive. Most current product-delivery repositories are private or held under my work account, [**@raha-wisesteps**](https://github.com/raha-wisesteps), because they involve internal or client systems.
+This personal account holds my public learning projects, portfolio references, selected data-analysis code and credential archive. Most current product repositories are private or held under my work account, [**@raha-wisesteps**](https://github.com/raha-wisesteps), because they involve internal or client systems.
 
-The public deployments above provide a reviewable view of the product surface. For architecture or case-study walkthroughs, contact me through [LinkedIn](https://www.linkedin.com/in/rahadianms/) or [work email](mailto:rahadianms.work@gmail.com).
+The public deployments above give a reviewable view of the product surface. For architecture or case-study walkthroughs, contact me through [LinkedIn](https://www.linkedin.com/in/rahadianms/) or [work email](mailto:rahadianms.work@gmail.com).
 
 <div align="center">
 
-### Let’s build useful, secure, and data-backed systems.
+### Let’s build useful, secure and lighter systems.
 
 © 2026 Rahadian Muhammad Sutandar · Bandung, Indonesia
 
