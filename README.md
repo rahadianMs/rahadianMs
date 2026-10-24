@@ -9,8 +9,8 @@ I build and ship complete products end to end: from the client brief to the data
 Bandung, Indonesia · Formal title: Smart Tourism Data Analyst, Smart Tourism IT division at [Wise Steps Consulting](https://wisesteps.id)
 
 <p>
-  <a href="https://www.rahadian.xyz/">
-    <img src="https://img.shields.io/badge/Portfolio-rahadian.xyz-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://www.rahadian.ai.id/">
+    <img src="https://img.shields.io/badge/Portfolio-rahadian.ai.id-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/rahadianms/">
     <img src="https://img.shields.io/badge/LinkedIn-rahadianms-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
