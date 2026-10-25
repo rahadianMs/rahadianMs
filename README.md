@@ -63,6 +63,7 @@ My background is **Urban and Regional Planning**. It shapes how I work: see the 
 - 🚀 **Delivered client systems fast.** A booking and operations app for **Imperial Living** in about two weeks (live since Oct 2026, used daily by 15 people, freelance), an internal management system for a research center at Universitas Padjadjaran in about a month, and 13 modules in a client's ERP (go-live planned Dec 2026).
 - 🌱 **Four of my sites are rated A or A+ on [Website Carbon](https://www.websitecarbon.com/)**, 0.03 to 0.05 g CO2 per visit, cleaner than 91 to 94 percent of web pages (Aug to Oct 2026).
 - 🤖 **AI-ready engineering.** A semantic layer as the single source of truth for developers and AI agents in three products, plus automated tests and Playwright QC scenarios (the ERP alone: 1,586 unit tests and 26 Playwright scenarios), so code written with AI stays correct and safe.
+- 🛡️ **Built an AI agent that reviews every pull request.** WSC Review Bot (Oct 2026), built in two days: scripted checks, a context pack from each repo's own docs, and a read-only Claude review that comments but never approves or merges. Installed on 5 product repos; it flagged a critical framework advisory already in the dependencies (patched the same day) and caught a data-loss bug and an incomplete Content Security Policy before merge.
 - 🧩 **Pre-sales mockups in days.** Clickable mockups (one built in 5 days) presented to clients to win their interest before any backend is built.
 
 ## Selected product delivery
@@ -78,6 +79,7 @@ Most production source code lives in private work or client repositories. The li
 | **Imperial Living booking app** | Freelance, Imperial Living, Bandung | Booking, cleaning queue, payments and owner reports for 40 hourly-rental units; double booking blocked in the database | [Live](https://imperialliving.id/) |
 | **IMS LMFE Padjadjaran** | Wise Steps Consulting for FEB Universitas Padjadjaran | Internal management system with workload capacity, KPI, projects and reporting | Handed over Jun 2026 |
 | **Client ERP modules** | Wise Steps Consulting client | 13 modules in a client's ERP, Laravel and Nuxt | Go-live planned Dec 2026 |
+| **WSC Review Bot** | Wise Steps Consulting, internal | AI agent that reviews every pull request: scripted checks, a per-PR context pack from the repo's own docs, and a read-only Claude review that only comments | In use on 5 repos (private) |
 | **GSTC Nusa Dua Portal** | Wise Steps Consulting for ITDC Nusa Dua | First version of the GSTC platform; the client's data moved to the GSTC Certification Assistant in Oct 2026 | Superseded |
 | **WIDI Hub** | Wise Steps Consulting for the Ministry of Tourism RI | National tourism carbon portal MVP (Scope 1, 2 and waste Scope 3, GIS maps); prototype and concept for an emission calculator | Archived |
 | **ITDC Nusa Dua ERMC** | Wise Steps Consulting for ITDC | Carbon and water MRV MVP for The Nusa Dua estate (GHG scopes, GRI 303) | Archived |
